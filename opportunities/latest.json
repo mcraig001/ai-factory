@@ -1,0 +1,248 @@
+{
+  "run_id": "discovery_20260119_013944",
+  "timestamp": "2026-01-19T01:39:44.672937",
+  "opportunities": [
+    {
+      "id": "cash_flow_forecaster_pro",
+      "title": "Small Business 12-Month Cash Flow Forecaster with Scenario Planning",
+      "problem": "Small businesses struggle to predict cash shortfalls and plan for seasonal variations without complex financial modeling.",
+      "solution": "Excel template with automated 12-month cash flow projections, 3 scenario planning (optimistic/realistic/pessimistic), seasonal adjustment factors, and cash shortage alerts with recommended action dates.",
+      "target_customer": "Small business owners with $100K-$2M annual revenue",
+      "price": 89,
+      "evidence": {
+        "gumroad": "Business Financial Models category sells 200-600/month at $25-100, Budget & Finance Trackers sell 800-1500/month",
+        "reddit": "High engagement request for cash flow forecasting with multiple scenarios, willing to pay $25-50",
+        "market_size": "Combined 1000-2100 monthly sales potential"
+      },
+      "competitive_gap": "Most templates are basic single-scenario; we'll include automated scenario comparison, seasonal adjustments, and actionable cash shortage alerts",
+      "build_time_days": 3,
+      "score": 87,
+      "score_breakdown": {
+        "market_demand": 38,
+        "revenue_potential": 28,
+        "competitive_advantage": 16,
+        "speed_to_market": 5
+      },
+      "monthly_revenue_estimate": 8900
+    },
+    {
+      "id": "real_estate_deal_analyzer",
+      "title": "Real Estate Investment Deal Analyzer with Rental Comparison Engine",
+      "problem": "New investors can't quickly evaluate if a property deal makes financial sense compared to alternatives.",
+      "solution": "Excel calculator with automated ROI, cash-on-cash return, BRRRR analysis, rental comps integration, and side-by-side deal comparison with visual dashboards.",
+      "target_customer": "New real estate investors analyzing their first 1-10 deals",
+      "price": 75,
+      "evidence": {
+        "gumroad": "Business Financial Models category shows demand for specialized calculators at $25-100",
+        "reddit": "High engagement request for deal analyzer with ROI and rental comparisons, willing to pay $40-75",
+        "market_size": "Estimated 300-500 monthly sales in real estate niche"
+      },
+      "competitive_gap": "Most tools are either too simple or require subscriptions; we'll provide comprehensive analysis with visual comparison charts in one-time purchase",
+      "build_time_days": 3,
+      "score": 84,
+      "score_breakdown": {
+        "market_demand": 35,
+        "revenue_potential": 27,
+        "competitive_advantage": 17,
+        "speed_to_market": 5
+      },
+      "monthly_revenue_estimate": 7500
+    },
+    {
+      "id": "freelance_project_profit_tracker",
+      "title": "Freelancer Multi-Client Project Profitability Dashboard",
+      "problem": "Freelancers juggle multiple clients and lose track of project profitability, deadlines, and scope creep.",
+      "solution": "Notion template with time tracking, budget vs actual analysis, scope creep alerts, client profitability ranking, and automated invoice generation with milestone tracking.",
+      "target_customer": "Freelancers managing 3+ concurrent client projects",
+      "price": 49,
+      "evidence": {
+        "gumroad": "Project Management Templates sell 300-800/month at $18-60, Client & CRM Management sells 200-500/month at $15-50",
+        "reddit": "High engagement request for client project tracking with time/budget/milestone management, willing to pay $15-30",
+        "market_size": "Combined 500-1300 monthly sales potential"
+      },
+      "competitive_gap": "Most templates focus on task management; we'll emphasize profitability tracking and scope creep prevention with automated alerts",
+      "build_time_days": 2,
+      "score": 82,
+      "score_breakdown": {
+        "market_demand": 36,
+        "revenue_potential": 24,
+        "competitive_advantage": 15,
+        "speed_to_market": 7
+      },
+      "monthly_revenue_estimate": 4900
+    },
+    {
+      "id": "sba_loan_business_plan",
+      "title": "SBA Loan-Ready Business Plan Template with Financial Projections",
+      "problem": "Entrepreneurs waste weeks creating business plans that don't meet lender requirements and get rejected.",
+      "solution": "Word + Excel combo with SBA-compliant sections, automated 3-year financial projections, market analysis templates, and lender requirement checklist.",
+      "target_customer": "Entrepreneurs seeking SBA loans for $50K-$500K",
+      "price": 149,
+      "evidence": {
+        "gumroad": "Business Financial Models category sells well at higher price points",
+        "reddit": "High engagement request for SBA-specific business plan template, willing to pay $35-60",
+        "market_size": "Estimated 100-300 monthly sales in specialized business planning"
+      },
+      "competitive_gap": "Generic business plan templates don't address SBA-specific requirements; we'll include actual lender checklists and compliance guidance",
+      "build_time_days": 3,
+      "score": 79,
+      "score_breakdown": {
+        "market_demand": 32,
+        "revenue_potential": 29,
+        "competitive_advantage": 13,
+        "speed_to_market": 5
+      },
+      "monthly_revenue_estimate": 14900
+    },
+    {
+      "id": "marketing_roi_calculator",
+      "title": "Small Business Marketing ROI & Customer Acquisition Cost Calculator",
+      "problem": "Small businesses overspend on marketing without understanding if their customer acquisition is profitable.",
+      "solution": "Excel dashboard tracking CAC and LTV across multiple channels (Google Ads, Facebook, email), with automated ROI calculations and budget reallocation recommendations.",
+      "target_customer": "Small business owners spending $500+ monthly on digital marketing",
+      "price": 69,
+      "evidence": {
+        "gumroad": "Business Financial Models and Content Creator Tools categories show strong demand",
+        "reddit": "Medium engagement request for CAC/LTV calculator, willing to pay $20-40",
+        "market_size": "Estimated 400-800 monthly sales combining business and marketing niches"
+      },
+      "competitive_gap": "Most tools are either too complex or single-channel; we'll provide multi-channel analysis with clear budget recommendations",
+      "build_time_days": 2,
+      "score": 78,
+      "score_breakdown": {
+        "market_demand": 34,
+        "revenue_potential": 25,
+        "competitive_advantage": 14,
+        "speed_to_market": 5
+      },
+      "monthly_revenue_estimate": 6900
+    },
+    {
+      "id": "rental_property_manager",
+      "title": "Multi-Property Rental Management & Maintenance Tracker",
+      "problem": "Landlords struggle to track maintenance requests, lease renewals, and property expenses across multiple units.",
+      "solution": "Notion workspace with tenant database, maintenance request system, expense tracking by property, lease renewal alerts, and profit/loss by unit analysis.",
+      "target_customer": "Landlords with 2-20 rental properties",
+      "price": 89,
+      "evidence": {
+        "gumroad": "Business Financial Models and Project Management Templates show demand for management systems",
+        "reddit": "Medium engagement request for rental property management system, willing to pay $30-55",
+        "market_size": "Estimated 200-400 monthly sales in real estate management niche"
+      },
+      "competitive_gap": "Most solutions are expensive software subscriptions; we'll provide comprehensive one-time purchase solution with profit analysis focus",
+      "build_time_days": 3,
+      "score": 76,
+      "score_breakdown": {
+        "market_demand": 30,
+        "revenue_potential": 26,
+        "competitive_advantage": 15,
+        "speed_to_market": 5
+      },
+      "monthly_revenue_estimate": 8900
+    },
+    {
+      "id": "service_pricing_calculator",
+      "title": "Service Business Profit-Optimized Pricing Calculator",
+      "problem": "Service providers undercharge because they don't know how to factor in overhead, profit margins, and market rates.",
+      "solution": "Excel calculator with overhead cost breakdown, competitive rate analysis, profit margin optimization, and project-based vs hourly pricing comparison with break-even analysis.",
+      "target_customer": "Service-based businesses (consultants, agencies, contractors) with $50K-$500K revenue",
+      "price": 59,
+      "evidence": {
+        "gumroad": "Business Financial Models category shows demand for specialized calculators",
+        "reddit": "Medium engagement request for pricing strategy calculator, willing to pay $15-35",
+        "market_size": "Estimated 300-600 monthly sales in business tools category"
+      },
+      "competitive_gap": "Most pricing advice is generic; we'll provide industry-specific overhead calculations and profit optimization recommendations",
+      "build_time_days": 2,
+      "score": 75,
+      "score_breakdown": {
+        "market_demand": 32,
+        "revenue_potential": 23,
+        "competitive_advantage": 13,
+        "speed_to_market": 7
+      },
+      "monthly_revenue_estimate": 5900
+    },
+    {
+      "id": "side_hustle_tax_tracker",
+      "title": "Side Hustle Tax-Optimized Income & Expense Tracker",
+      "problem": "Side hustlers lose money at tax time because they can't properly categorize expenses or track quarterly payments.",
+      "solution": "Excel workbook with IRS-compliant expense categories, mileage tracker, quarterly tax calculator, deduction optimizer, and year-end tax summary generator.",
+      "target_customer": "Side hustlers earning $5K-$50K annually from gig work or small businesses",
+      "price": 39,
+      "evidence": {
+        "gumroad": "Budget & Finance Trackers sell 800-1500/month at $10-35",
+        "reddit": "Medium engagement request for side hustle tax tracking, willing to pay $10-25",
+        "market_size": "Large market of 1000+ monthly sales potential"
+      },
+      "competitive_gap": "Most budget trackers don't focus on tax optimization; we'll include specific side hustle deductions and quarterly payment planning",
+      "build_time_days": 2,
+      "score": 74,
+      "score_breakdown": {
+        "market_demand": 35,
+        "revenue_potential": 20,
+        "competitive_advantage": 12,
+        "speed_to_market": 7
+      },
+      "monthly_revenue_estimate": 3900
+    },
+    {
+      "id": "social_media_roi_planner",
+      "title": "Social Media Content Calendar with Sales Conversion Tracker",
+      "problem": "Small businesses post inconsistently and can't measure which content drives actual sales or leads.",
+      "solution": "Notion template with content calendar, post performance tracking, lead source attribution, ROI calculation by content type, and automated posting schedule recommendations.",
+      "target_customer": "Small business owners and solopreneurs managing their own social media",
+      "price": 45,
+      "evidence": {
+        "gumroad": "Content Creator Tools sell 400-1200/month at $12-40",
+        "reddit": "Medium engagement request for content calendar with ROI tracking, willing to pay $12-25",
+        "market_size": "Strong market of 600-1000 monthly sales potential"
+      },
+      "competitive_gap": "Most content calendars focus on organization; we'll emphasize sales conversion tracking and ROI measurement",
+      "build_time_days": 2,
+      "score": 73,
+      "score_breakdown": {
+        "market_demand": 34,
+        "revenue_potential": 21,
+        "competitive_advantage": 11,
+        "speed_to_market": 7
+      },
+      "monthly_revenue_estimate": 4500
+    },
+    {
+      "id": "freelance_contract_suite",
+      "title": "Freelancer Legal Protection Contract Suite with Payment Terms",
+      "problem": "Freelancers get burned by scope creep and late payments due to poorly written contracts.",
+      "solution": "Word template suite with 5 contract types, milestone payment structures, scope change order forms, late payment penalty clauses, and client onboarding checklist.",
+      "target_customer": "Freelancers and consultants billing $50K+ annually",
+      "price": 79,
+      "evidence": {
+        "gumroad": "Client & CRM Management templates sell 200-500/month at $15-50",
+        "reddit": "Request for freelance contracts with scope protection, willing to pay $20-40",
+        "market_size": "Estimated 250-400 monthly sales in freelance tools"
+      },
+      "competitive_gap": "Most contract templates are generic; we'll provide industry-specific clauses and payment protection mechanisms",
+      "build_time_days": 2,
+      "score": 72,
+      "score_breakdown": {
+        "market_demand": 28,
+        "revenue_potential": 24,
+        "competitive_advantage": 13,
+        "speed_to_market": 7
+      },
+      "monthly_revenue_estimate": 7900
+    }
+  ],
+  "metadata": {
+    "sources_scraped": 2,
+    "total_opportunities": 10,
+    "avg_score": 78.0,
+    "top_categories": [
+      "Small",
+      "Freelancers",
+      "Entrepreneurs",
+      "New"
+    ],
+    "recommended_next": "cash_flow_forecaster_pro"
+  }
+}
