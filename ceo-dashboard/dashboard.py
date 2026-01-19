@@ -110,14 +110,23 @@ st.markdown(f"**{datetime.now().strftime('%A, %B %d, %Y - %I:%M %p')}**")
 pending_templates = load_pending_templates()
 
 # Load opportunities
-opportunities_dir = Path("/home/claude/ai-factory/opportunities")
+# Try multiple possible paths (local dev vs Streamlit Cloud)
+possible_paths = [
+    Path("/home/claude/ai-factory/opportunities"),  # Local dev
+    Path("../opportunities"),  # Streamlit Cloud (one level up from ceo-dashboard)
+    Path("./opportunities"),  # If run from root
+    Path(__file__).parent.parent / "opportunities",  # Relative to this file
+]
+
 latest_opportunities = None
-if opportunities_dir.exists() and (opportunities_dir / "latest.json").exists():
-    try:
-        with open(opportunities_dir / "latest.json", 'r') as f:
-            latest_opportunities = json.load(f)
-    except:
-        latest_opportunities = None
+for opportunities_dir in possible_paths:
+    if opportunities_dir.exists() and (opportunities_dir / "latest.json").exists():
+        try:
+            with open(opportunities_dir / "latest.json", 'r') as f:
+                latest_opportunities = json.load(f)
+            break
+        except:
+            continue
 
 # Summary metrics
 col1, col2, col3 = st.columns(3)
